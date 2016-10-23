@@ -24,18 +24,20 @@
 #if DEVELOPMENT == 0
 
 // Production
-static const NSUInteger kQMApplicationID = 13318;
-static NSString * const kQMAuthorizationKey = @"WzrAY7vrGmbgFfP";
-static NSString * const kQMAuthorizationSecret = @"xS2uerEveGHmEun";
-static NSString * const kQMAccountKey = @"6Qyiz3pZfNsex1Enqnp7";
+static const NSUInteger kQMApplicationID = 48259;
+static NSString * const kQMAuthorizationKey = @"9-HH8m64cRGmpwW";
+static NSString * const kQMAuthorizationSecret = @"j4VPgRWMfZgs6RA";
+static NSString * const kQMAccountKey = @"AkdqkVyszCBuDJzgme8o";
 
 #else
 
 // Development
-static const NSUInteger kQMApplicationID = 36125;
-static NSString * const kQMAuthorizationKey = @"gOGVNO4L9cBwkPE";
-static NSString * const kQMAuthorizationSecret = @"JdqsMHCjHVYkVxV";
-static NSString * const kQMAccountKey = @"6Qyiz3pZfNsex1Enqnp7";
+static const NSUInteger kQMApplicationID = 48259;
+static NSString * const kQMAuthorizationKey = @"9-HH8m64cRGmpwW";
+static NSString * const kQMAuthorizationSecret = @"j4VPgRWMfZgs6RA";
+static NSString * const kQMAccountKey = @"AkdqkVyszCBuDJzgme8o";
+
+
 
 #endif
 
